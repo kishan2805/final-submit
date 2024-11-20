@@ -1,4 +1,4 @@
-Object-Detection 
+# Object-Detection 
 
 Our project focuses on developing an advanced object detection model to enhance the safety and efficiency of autonomous vehicles.
 Leveraging YOLOv5, the model identifies and classifies objects in real-time, ensuring the vehicle can make informed decisions in dynamic environments.
