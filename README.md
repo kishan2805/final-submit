@@ -2,10 +2,12 @@
 
 Our project focuses on developing an advanced object detection model to enhance the safety and efficiency of autonomous vehicles.
 Leveraging YOLOv5, the model identifies and classifies objects in real-time, ensuring the vehicle can make informed decisions in dynamic environments.
--High Accuracy: Achieved 92% detection accuracy, critical for detecting pedestrians, vehicles, traffic signs, and other road elements.
--Real-Time Performance: Processes live camera feeds with minimal latency, making it suitable for real-world autonomous driving scenarios.
--Adaptability: Designed to handle various environmental conditions, such as lighting changes, weather variations, and crowded urban settings.
--Safety-First Approach: Enables prompt detection and classification of potential obstacles to prevent collisions and enhance driving decisions.
+
+
+High Accuracy: Achieved 92% detection accuracy, critical for detecting pedestrians, vehicles, traffic signs, and other road elements.
+Real-Time Performance: Processes live camera feeds with minimal latency, making it suitable for real-world autonomous driving scenarios.
+Adaptability: Designed to handle various environmental conditions, such as lighting changes, weather variations, and crowded urban settings.
+Safety-First Approach: Enables prompt detection and classification of potential obstacles to prevent collisions and enhance driving decisions.
 
 
 Getting Started
