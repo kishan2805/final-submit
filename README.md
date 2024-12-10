@@ -9,6 +9,15 @@ Real-Time Performance: Processes live camera feeds with minimal latency, making 
 Adaptability: Designed to handle various environmental conditions, such as lighting changes, weather variations, and crowded urban settings.
 Safety-First Approach: Enables prompt detection and classification of potential obstacles to prevent collisions and enhance driving decisions.
 
+Drowsiness Detection Integration
+In addition to real-time object detection, the project includes a drowsiness detection feature to enhance driver safety. This model monitors drivers' facial cues to identify signs of fatigue and promptly alert them.
+
+Features:
+
+Real-time drowsiness detection using facial landmarks.
+Works seamlessly with the object detection system.
+Designed for varied lighting and camera placements.
+
 
 Getting Started
 To run this project smoothly, we recommend using Google Colab. Follow the instructions below to set up and execute the code.
